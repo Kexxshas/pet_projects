@@ -11,4 +11,4 @@
    - Распределение выручки по группам товара;  
    - Динамика прихода и расхода денежных средств по месяцам.    
 
-[Дашборд](lookerstudio.google.com/reporting/dd2dc145-5d04-48fc-92ff-570df3b1d48b)
+[Дашборд](https://lookerstudio.google.com/reporting/dd2dc145-5d04-48fc-92ff-570df3b1d48b)
