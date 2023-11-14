@@ -21,4 +21,4 @@ TargetingType – тип таргетинга
 Cost - расходы рекламодателя  
 Conversions – целевые визиты  
 
-[Презентация](docs.google.com/presentation/d/1N0K--OLX3xqpCdzmOsp3RkJ4V8nEgNGTfgcBOwMrP5o/edit?usp=sharing)
+[Презентация](https://docs.google.com/presentation/d/1N0K--OLX3xqpCdzmOsp3RkJ4V8nEgNGTfgcBOwMrP5o/edit?usp=sharing)
